@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadVertexApp", "QuadVertexApp\QuadVertexApp.csproj", "{7D99C490-282F-48FD-9B51-F9D3749A3774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D99C490-282F-48FD-9B51-F9D3749A3774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D99C490-282F-48FD-9B51-F9D3749A3774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D99C490-282F-48FD-9B51-F9D3749A3774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D99C490-282F-48FD-9B51-F9D3749A3774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA31600B-30AB-4BBB-AD45-F74B6E0A3291}
+	EndGlobalSection
+EndGlobal
